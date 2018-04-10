@@ -7,8 +7,17 @@ FileManager: https://github.com/react-filemanager
 
 Back-end Support: https://github.com/themexpert/rfms-plugin-fontawesome
 
+#### Installation
 
-Usage:
+`npm i @themexpert/rfm-plugin-fontawesome`
+
+or
+
+`yarn add @themexpert/rfm-plugin-fontawesome`
+
+#### Usage:
+
+> Include `@themexpert/rfm-plugin-fontawesome` in babel loader in your webpack config
 
 ```JS
     import initFM from '@themexpert/react-filemanager'
