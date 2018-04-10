@@ -28,3 +28,15 @@ or
     window.ReactFileManager.registerPlugin(FontAwesome);
     
 ```
+
+#### Instruction
+
+Double click on the icons to select
+
+Return value is an object
+```JS
+    {
+        type: 'svg',
+        svg: 'raw svg data for icon'
+    }
+```
