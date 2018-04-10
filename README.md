@@ -1,4 +1,5 @@
 # FontAwesome Plugin for React FileManager
+> This is client side plugin and has server side plugin dependency.
 
 #### Dependencies
 
